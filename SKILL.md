@@ -4,7 +4,7 @@ description: Add meta-commentary about comedy structure, joke conventions, or en
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4488
+  version: 1.0.4489
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist

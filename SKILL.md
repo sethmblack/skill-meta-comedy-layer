@@ -3,8 +3,9 @@ name: meta-comedy-layer
 description: Add meta-commentary about comedy structure, joke conventions, or entertainment expectations while telling the joke itself, creating a layered effect where the comedy operates on multiple levels sim...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4488
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - callbacks
